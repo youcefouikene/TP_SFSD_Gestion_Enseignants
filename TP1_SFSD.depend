@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1672521633 source:c:\users\7 pro\desktop\test123\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Library.h"
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1672518694 c:\users\7 pro\desktop\test123\library.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1672518703 source:c:\users\7 pro\desktop\test123\library.c
+	"Library.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<windows.h>
+	"Color.c"
+	"conio.c"
+
+1672518683 c:\users\7 pro\desktop\test123\color.c
+	<windows.h>
+
+1672518680 c:\users\7 pro\desktop\test123\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1672518689 c:\users\7 pro\desktop\test123\conio2.h
+	<conio.h>
+	<windows.h>
+
+1672102911 source:c:\users\7 pro\desktop\test123\graphisme.c
+	"Library.h"
+
+1672102911 c:\users\7 pro\desktop\test123\graphisme.c
+	"Library.h"
+
+1672103005 c:\users\7 pro\desktop\test123\library.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<windows.h>
+
+1672518703 source:c:\users\7 pro\desktop\tp_sfsd\library.c
+	"Library.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<windows.h>
+	"Color.c"
+	"conio.c"
+
+1672518694 c:\users\7 pro\desktop\tp_sfsd\library.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1672518683 c:\users\7 pro\desktop\tp_sfsd\color.c
+	<windows.h>
+
+1672518680 c:\users\7 pro\desktop\tp_sfsd\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1672518689 c:\users\7 pro\desktop\tp_sfsd\conio2.h
+	<conio.h>
+	<windows.h>
+
